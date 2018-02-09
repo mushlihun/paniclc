@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorPrimary"
-    tools:context="yoktavian.studio.sos.MainActivity">
+    tools:context="yoktavian.studio.panicapp.MainActivity">
 
     <RelativeLayout
         android:id="@+id/btn_sos"
